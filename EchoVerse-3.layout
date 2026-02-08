@@ -13,3 +13,16 @@ CursorCol=20
 CursorRow=10
 TopLine=1
 LeftChar=1
+[Editors]
+Order=3,4
+Focused=3
+[Editor_3]
+CursorCol=2
+CursorRow=272
+TopLine=237
+LeftChar=1
+[Editor_4]
+CursorCol=2
+CursorRow=204
+TopLine=169
+LeftChar=1
