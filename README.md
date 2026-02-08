@@ -1,4 +1,4 @@
-EchoVerse phas-3
+EchoVerse phase-3    https://github.com/Skandar7002/EchoVerse-3
 
 مدل‌سازی ساختار سازمانی تیم تولید پادکست با استفاده از درخت و الگوریتم‌های جستجو
 
@@ -207,7 +207,7 @@ EchoVerse phas-3
     ├── HierarchyTree.cpp      # پیاده‌سازی درخت و الگوریتم‌ها
     ├── main.cpp               # رابط کاربری و تست
     ├── README.md              # مستندات پروژه
-    └── Makefile               # فایل ساخت (اختیاری)
+    
 
 توسعه دهندگان: مجتبی فهیم پور،
 
